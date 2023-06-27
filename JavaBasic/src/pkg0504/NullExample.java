@@ -1,4 +1,4 @@
-package doc0504;
+package pkg0504;
 
 class StudentCard {
     int id; //学籍番号
